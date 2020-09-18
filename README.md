@@ -2,12 +2,11 @@
 
 ### **PROJECT ID: 06**
 >## ✍&nbsp; PROJECT DESCRIPTION
-To develop and ML application to help users get notified about dubious news sources using natural language processing and crowdsourcing.
+To develop and ML application to help users get notified about dubious news sources using natural language processing.
 
->## 📂&nbsp; RELEVANT TECHNOLOGY
-Any web technology can be used but I am thinking about using DJANGO ecosystem
+>## 📂&nbsp; TECHNOLOGY USED
 
-* Django
+* Flask
 * Sklearn
 
 >## 💻&nbsp; GETTING STARTED
