@@ -6,7 +6,7 @@ import newspaper
 from newspaper import Article
 import urllib
 
-app = Flask(__name__, template_folder='/Users/sumitkumarkundu/PycharmProjects/Fake_News_Classifier/venv/templates', static_folder="/Users/sumitkumarkundu/PycharmProjects/Fake_News_Classifier/venv/static")
+app = Flask(__name__, template_folder='venv/templates', static_folder="venv/static")
 CORS(app)
 
 with open('model.pickle', 'rb') as target:
