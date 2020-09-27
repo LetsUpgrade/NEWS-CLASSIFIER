@@ -1,7 +1,4 @@
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.9.12
-anaconda-project==0.8.3
 applaunchservices==0.2.1
 appnope==0.1.0
 appscript==1.0.1
@@ -30,12 +27,7 @@ cffi==1.14.0
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.3.0
-clyent==1.2.2
 colorama==0.4.3
-conda==4.8.2
-conda-build==3.18.11
-conda-package-handling==1.6.0
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography==2.8
 cssselect==1.1.0
@@ -103,15 +95,11 @@ MarkupSafe==1.1.1
 matplotlib==3.1.3
 mccabe==0.6.1
 mistune==0.8.4
-mkl-fft==1.0.15
-mkl-random==1.1.0
-mkl-service==2.3.0
 mock==4.0.1
 more-itertools==8.2.0
 mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
-navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==5.0.4
 networkx==2.4
@@ -155,7 +143,6 @@ pydocstyle==4.0.1
 pyflakes==2.1.1
 Pygments==2.5.2
 pylint==2.4.4
-pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyrsistent==0.15.7
