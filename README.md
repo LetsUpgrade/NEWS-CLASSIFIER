@@ -8,6 +8,7 @@ To develop and ML application to help users get notified about dubious news sour
 
 * Flask
 * Sklearn
+* Python
 
 >## 💻&nbsp; GETTING STARTED
 
