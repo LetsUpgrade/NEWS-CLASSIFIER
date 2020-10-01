@@ -6,9 +6,9 @@ To develop and ML application to help users get notified about dubious news sour
 
 >## &nbsp; TECHNOLOGY USED
 
-1. Python (several of its libraries like scikit-learn, matplotlib, numpy and pandas) for building the model.
+1. [Python](https://www.python.org/) (several of its libraries like [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)) for building the model.
 2. HTML, CSS, Javascript for building the front end of the web application.
-3. Flask for the backend of the web application.
+3. [Flask](https://flask.palletsprojects.com/en/1.1.x/) for the backend of the web application.
 
 >## &nbsp; GETTING STARTED
 
