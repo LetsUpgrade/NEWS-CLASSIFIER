@@ -14,7 +14,7 @@ To develop and **ML application** to help users get notified about **dubious new
 2. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), [Javascript](https://www.javascript.com/) for building the front end of the web application.
 3. [Flask](https://flask.palletsprojects.com/en/1.1.x/) for the backend of the web application.
 
->## &nbsp; GETTING STARTED
+>## &nbsp; TO RUN THE MODEL ON LOCAL DEVICE
 
 => **Fork <a href=https://github.com/LetsUpgrade/NEWS-CLASSIFIER><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a>this repository to start contributing.**
 
