@@ -1,5 +1,7 @@
 # **NEWS CLASSIFIER**
 
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) 
+
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
 To develop and ML application to help users get notified about dubious news sources using natural language processing.
