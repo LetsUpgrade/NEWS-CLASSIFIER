@@ -2,12 +2,12 @@
 
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
-To develop and ML application to help users get notified about dubious news sources using natural language processing.
+To develop and ML application to help users get notified about dubious news sources using Natural Language Processing.
 
 >## &nbsp; TECHNOLOGY USED
 
 1. [Python](https://www.python.org/) (several of its libraries like [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)) for building the model.
-2. HTML, CSS, Javascript for building the front end of the web application.
+2. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), [Javascript](https://www.javascript.com/) for building the front end of the web application.
 3. [Flask](https://flask.palletsprojects.com/en/1.1.x/) for the backend of the web application.
 
 >## &nbsp; GETTING STARTED
