@@ -8,6 +8,8 @@
 >## &nbsp; PROJECT DESCRIPTION
 To develop and **ML application** to help users get notified about **dubious news sources** using **Natural Language Processing**.
 
+![Image of Web Application](https://github.com/khushboogupta13/NEWS-CLASSIFIER/blob/master/Fake%20News%20Prediction.jpeg)
+
 >## &nbsp; TECHNOLOGY USED
 
 1. [Python](https://www.python.org/) (several of its libraries like [scikit-learn](https://scikit-learn.org/stable/), [nltk](https://www.nltk.org/), [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)) for building the model.
