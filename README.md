@@ -6,7 +6,7 @@ To develop and ML application to help users get notified about dubious news sour
 
 >## &nbsp; TECHNOLOGY USED
 
-1. [Python](https://www.python.org/) (several of its libraries like [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)) for building the model.
+1. [Python](https://www.python.org/) (several of its libraries like [scikit-learn](https://scikit-learn.org/stable/), [nltk](https://www.nltk.org/),[matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)) for building the model.
 2. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), [Javascript](https://www.javascript.com/) for building the front end of the web application.
 3. [Flask](https://flask.palletsprojects.com/en/1.1.x/) for the backend of the web application.
 
@@ -21,7 +21,8 @@ To develop and ML application to help users get notified about dubious news sour
       (git clone https://github.com/<your-github-username>/LetsUpgrade/NEWS-CLASSIFIER.git)
 ```   
 >## &nbsp; BUILDING OF THE MODEL
-1. ###Dataset: https://www.kaggle.com/c/fake-news/data?select=train.csv
+1. **Dataset**: https://www.kaggle.com/c/fake-news/data?select=train.csv
+2. **Algorithm Used**: 
 
 >## &nbsp; FUTURE IMPROVEMENTS
 
