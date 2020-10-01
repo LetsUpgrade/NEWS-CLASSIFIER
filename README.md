@@ -20,7 +20,10 @@ To develop and ML application to help users get notified about dubious news sour
     2) git clone -Clone the repository to your local machine
       (git clone https://github.com/<your-github-username>/LetsUpgrade/NEWS-CLASSIFIER.git)
 ```   
->## &nbsp; FUTURE IMRPOVEMENTS
+>## &nbsp; BUILDING OF THE MODEL
+1. ###Dataset: https://www.kaggle.com/c/fake-news/data?select=train.csv
+
+>## &nbsp; FUTURE IMPROVEMENTS
 
 1. Making a chrome plugin for the web application.
 2. Further improving the accuracy of the model.
