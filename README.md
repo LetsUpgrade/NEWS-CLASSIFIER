@@ -20,3 +20,9 @@ To develop and ML application to help users get notified about dubious news sour
     2) git clone -Clone the repository to your local machine
       (git clone https://github.com/<your-github-username>/LetsUpgrade/NEWS-CLASSIFIER.git)
 ```    
+
+## License
+
+All rights reserved. Licensed under the MIT License.
+
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
