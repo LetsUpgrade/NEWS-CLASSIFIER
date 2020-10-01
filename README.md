@@ -6,7 +6,7 @@
 
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
-To develop and ML application to help users get notified about dubious news sources using Natural Language Processing.
+To develop and **ML application** to help users get notified about **dubious news sources** using **Natural Language Processing**.
 
 >## &nbsp; TECHNOLOGY USED
 
@@ -42,5 +42,6 @@ To develop and ML application to help users get notified about dubious news sour
 >## &nbsp; LICENSE
 
 All rights reserved. Licensed under the MIT License.
+
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
