@@ -1,5 +1,9 @@
 # **NEWS CLASSIFIER**
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
 To develop and ML application to help users get notified about dubious news sources using Natural Language Processing.
@@ -27,7 +31,7 @@ To develop and ML application to help users get notified about dubious news sour
 
 >## &nbsp; FUTURE IMPROVEMENTS
 
-1. Making a chrome plugin for the web application.
+1. Making a **chrome plugin** for the web application.
 2. Further improving the accuracy of the model.
 3. Training the model further on more datasets.
 
