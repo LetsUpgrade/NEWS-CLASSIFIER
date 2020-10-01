@@ -1,6 +1,7 @@
 # **NEWS CLASSIFIER**
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) 
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
