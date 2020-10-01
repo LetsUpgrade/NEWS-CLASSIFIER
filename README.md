@@ -28,6 +28,7 @@ To develop and **ML application** to help users get notified about **dubious new
 >## &nbsp; BUILDING OF THE MODEL
 1. **Dataset**: https://www.kaggle.com/c/fake-news/data?select=train.csv
 2. **Algorithm Used**: [Multinomial Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#:~:text=The%20multinomial%20Naive%20Bayes%20classifier,tf%2Didf%20may%20also%20work.)
+![Image of Web Application](https://github.com/khushboogupta13/NEWS-CLASSIFIER/blob/master/Fake%20News.jpeg)
 
 >## &nbsp; FUTURE IMPROVEMENTS
 
