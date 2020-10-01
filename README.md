@@ -4,8 +4,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/LetsUpgrade/NEWS-CLASSIFIER)
-
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
 To develop and **ML application** to help users get notified about **dubious news sources** using **Natural Language Processing**.
