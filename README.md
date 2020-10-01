@@ -6,4 +6,6 @@ To develop an ML application to help users get notified about dubious news sourc
 
 >## &nbsp; TECHNOLOGY USED
 1. Python and several of its libraries like scikit-learn, matplotlib, numpy and pandas for building the model.
+2. Front-End: HTML, CSS and Javascript
+3. Back-End API : Flask
 ```    
