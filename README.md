@@ -22,8 +22,9 @@ To develop and ML application to help users get notified about dubious news sour
 ```   
 >## &nbsp; FUTURE IMRPOVEMENTS
 
-- Making a chrome plugin for the web application.
-- Further improving the accuracy of the model.
+1. Making a chrome plugin for the web application.
+2. Further improving the accuracy of the model.
+3. Training the model further on more datasets.
 
 >## &nbsp; REFERENCES
 1. [Fake News Classifier I](https://medium.com/swlh/build-your-own-fake-news-classifier-7918f05c2ec7)
