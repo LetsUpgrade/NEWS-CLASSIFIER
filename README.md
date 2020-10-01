@@ -20,6 +20,9 @@ To develop and ML application to help users get notified about dubious news sour
     2) git clone -Clone the repository to your local machine
       (git clone https://github.com/<your-github-username>/LetsUpgrade/NEWS-CLASSIFIER.git)
 ```    
+>## &nbsp; REFERENCES
+1. [Fake News Classifier I](https://medium.com/swlh/build-your-own-fake-news-classifier-7918f05c2ec7)
+2. [Fake News Classifier II](https://towardsdatascience.com/building-a-fake-news-classifier-using-natural-language-processing-83d911b237e1)
 
 >## &nbsp; LICENSE
 
