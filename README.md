@@ -24,7 +24,7 @@ To develop and ML application to help users get notified about dubious news sour
     2) git clone -Clone the repository to your local machine
       (git clone https://github.com/<your-github-username>/LetsUpgrade/NEWS-CLASSIFIER.git)
 ```   
->## &nbsp; 
+
 >## &nbsp; BUILDING OF THE MODEL
 1. **Dataset**: https://www.kaggle.com/c/fake-news/data?select=train.csv
 2. **Algorithm Used**: [Multinomial Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#:~:text=The%20multinomial%20Naive%20Bayes%20classifier,tf%2Didf%20may%20also%20work.)
