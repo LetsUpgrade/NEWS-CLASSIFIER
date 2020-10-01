@@ -2,7 +2,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 ### **PROJECT ID: 06**
 >## &nbsp; PROJECT DESCRIPTION
@@ -42,5 +42,5 @@ To develop and ML application to help users get notified about dubious news sour
 >## &nbsp; LICENSE
 
 All rights reserved. Licensed under the MIT License.
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
