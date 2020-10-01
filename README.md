@@ -1,16 +1,16 @@
 # **NEWS CLASSIFIER**
 
 ### **PROJECT ID: 06**
->## ✍&nbsp; PROJECT DESCRIPTION
+>## &nbsp; PROJECT DESCRIPTION
 To develop and ML application to help users get notified about dubious news sources using natural language processing.
 
->## 📂&nbsp; TECHNOLOGY USED
+>## &nbsp; TECHNOLOGY USED
 
 1. Python (several of its libraries like scikit-learn, matplotlib, numpy and pandas) for building the model.
 2. HTML, CSS, Javascript for building the front end of the web application.
 3. Flask for the backend of the web application.
 
->## 💻&nbsp; GETTING STARTED
+>## &nbsp; GETTING STARTED
 
 => **Fork <a href=https://github.com/LetsUpgrade/NEWS-CLASSIFIER><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a>this repository to start contributing.**
 
@@ -21,7 +21,7 @@ To develop and ML application to help users get notified about dubious news sour
       (git clone https://github.com/<your-github-username>/LetsUpgrade/NEWS-CLASSIFIER.git)
 ```    
 
-## License
+>## &nbsp; LICENSE
 
 All rights reserved. Licensed under the MIT License.
 
